@@ -1,0 +1,6 @@
+El Concursante : daniela gano el premio: ['viaje arica']
+El Concursante : pablo gano el premio: ['cepillo de dientes']
+El Concursante : rafael gano el premio: ['horno artesanal']
+El Concursante : carlos gano el premio: ['pantuflas']
+El Concursante : lucy gano el premio: ['tv blanco y negro']
+El Concursante : tomas gano el premio: ['desodorante']
